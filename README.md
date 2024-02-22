@@ -16,7 +16,7 @@ ABB RobotStudio, B&R Automation Studio, etc.
 
 The seminar paper focuses mainly on the topic of robotics, motion planning, artificial intelligence, Industry 4.0, smart grippers/sensors, and more. Seminar papers can have a maximum of 10 pages and the recommended range is 4 to 6 pages. Please use the relevant literature and resources for your work, such as books on robotics, scientific journals, etc. (at least 10 sources).
 
-Link: [Seminar Paper](https://github.com/rparak/VRM_GitHub_Template_Student/tree/main/Seminar_Paper)
+Link: [Seminar Paper](https://github.com/plisnik/VRM/tree/main/Seminar_Paper)
 
 ## Description - Project 1:
 
@@ -28,7 +28,11 @@ It will be possible to create your own production line design, but in accordance
 **Note 2:**
 It will be possible to create a team (max. 3 members), but with a reduction of the maximum score
 
+<!--
 Link: [Project 1](https://github.com/rparak/VRM_GitHub_Template_Student/tree/main/Project_1)
+-->
+
+
 
 <p align="center">
   <img src=https://github.com/rparak/VRM_GitHub_Template_Student/blob/main/images/project_PF.png width="700" height="375">
